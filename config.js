@@ -6,5 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
-    
+    ALIVE_IMAGE process.env.ALIVE_IMAGE {} "https://i.ibb.co/rZzt9W4/Manul-Ofc-X.jpg"
+
 };
