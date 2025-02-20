@@ -3,33 +3,33 @@
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=HAMMAD%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20HZ%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***`FORK REPO`***
 
-  <a href="https://github.com/Sobxsparl/SOBIA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
+  <a href="https://github.com/TanoliHuYar/HAMMAD-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK HAMMAD MD" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `SOBIA MD WEBPAGE`
+### <br> `HAMMAD MD WEBPAGE`
 <p align="left">
-<a href="https://sobia-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
+<a href="https://hammad-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br> `SOBIA MD SESSION`
+### <br> `HAMMAD MD SESSION`
 <p align="left">
-<a href="https://sobia-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
+<a href="https://hammad-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <br> `HEROKU DEPLOYMENT`
 <p align="left">
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Sobxsparl/SOBIA-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/TanoliHuYar/HAMMAD-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -59,9 +59,9 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
-| [![Sobia Butt](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
+| [![Hammad Tanoli](https://github.com/TanoliHuYar.png?lenght=50width=50)](https://github.com/Sobxsparl) |
 |----|
-| [ SOBIA BUTT ](https://github.com/Sobxsparl) |
+| [ Hammad Tanoli ](https://github.com/TanoliHuYar) |
 |  Owner |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
