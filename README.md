@@ -54,7 +54,7 @@ src="https://cardivo.vercel.app/api?name=HAMMAD%20MD&description=A%20PAKISTANI%2
   
 | [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
 |----|
-| [ SOBIA BUTT ](https://github.com/Um4r719) |
+| [ HAMMAD TANOLI ](https://github.com/Um4r719) |
 | Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
